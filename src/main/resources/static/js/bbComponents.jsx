@@ -68,7 +68,7 @@ function BBServiceURL() {
 var host = window.location.host;
 console.log("Host: " + host);
 // En heroku necesita conexiones seguras de web socket
-var url = 'wss://' + (host) + '/bbService';
+var url = 'ws://' + (host) + '/bbService';
 if(host.toString().startsWith("localhost")){
 url = 'ws://' + (host) + '/bbService';
 }
