@@ -4,6 +4,7 @@ Juan Pablo Poveda Cañon
 
 # TALLER TABLERO INTERACTIVO TIEMPO REAL. SPRING.IO, WEBSOCKETS, REACTJS, P5, AWS : BUENAS PRÁCTICAS DE DISEÑO
 
+![newReact - Marco básico de Azure (2019)](https://github.com/juancanon1725/Taller7_ARSW/assets/98672541/3b08f71f-08db-47ad-8a9d-9c4dee5311a2)
 
 ## Prerequisitos
 
